@@ -19,6 +19,7 @@ $RECYCLE.BIN/
 
 # =========================
 # Operating System Files
+*.bat
 # =========================
 
 # OSX
@@ -41,3 +42,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.TEMPLATE
